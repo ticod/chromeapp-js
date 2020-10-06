@@ -1,7 +1,8 @@
 body {
     background-color: #ecf0f1;
     color : #EFF8FB;
-    font-family: 'Gaegu', cursive;
+    /* font-family: 'Gaegu', cursive; */
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 button {
@@ -36,14 +37,16 @@ input {
     padding: 1.5em;
     border:none;
 
-    font-family: 'Gaegu', cursive;
+    /* font-family: 'Gaegu', cursive; */
+    font-family: 'Do Hyeon', sans-serif;
     font-size: 1.4em;
     color: white;
 }
 
 input::placeholder {
     color: wheat;
-    font-family: 'Gaegu', cursive;
+    /* font-family: 'Gaegu', cursive; */
+    font-family: 'Do Hyeon', sans-serif;
     font-size: 1.4em;
 }
 
